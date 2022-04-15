@@ -7,7 +7,7 @@ import { media } from 'utils/media';
 
 const TeamMembers = [
   {
-    name: 'Something',
+    name: 'Something_something',
     position: 'something',
     image: '/testimonials/iitk-logo.svg',
   },
